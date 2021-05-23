@@ -37,7 +37,7 @@ The number of hashes you add should correspond to the level of headings you want
 ### This would be heading level 3
 ```
 
-And so on. These headings (as with a lot of Markdown's syntax) have a direct equivalent in HTML, the markup language that webpages use for formatting. The equivalent would be using the \<h1>, \<h2>, and \<h3> tags respectively
+And so on. These headings (as with a lot of Markdown's syntax) have a direct equivalent in HTML, the markup language that webpages use for formatting. The equivalent would be using the `<h1>`, `<h2>`, and `<h3>` tags respectively
 
 ### Alternate Syntax
 
